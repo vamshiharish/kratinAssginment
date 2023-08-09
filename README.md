@@ -13,7 +13,7 @@ This is a React.js application that allows users to manage appointments and set 
 
 ## Screenshots
 
-![Appointments and Reminders](screenshots/appointments-screenshot.png)
+![Appointments and Reminders](https://res.cloudinary.com/dpgviap9s/image/upload/v1691606374/appointment_app_zygyiq.png)
 
 ## Setup Instructions
 
